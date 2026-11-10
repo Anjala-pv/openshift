@@ -19,7 +19,7 @@ Hands-on Day-2 operations performed on a self-hosted Red Hat OpenShift cluster, 
 | # | Runbook | Status |
 |---|---|---|
 | 01 | [etcd backup and disaster recovery restore](01-etcd-backup-restore.md) | ✅ Completed |
-| 02 | Application backup and restore with OADP | ⏳ Planned |
+| 02 | [Application backup and restore with OADP (AWS S3)](02-oadp-app-backup-restore.md) | ✅ Completed |
 | 03 | Cluster upgrade with change plan | ⏳ Planned |
 | 04 | GitOps with OpenShift GitOps (Argo CD) | ⏳ Planned |
 | 05 | Identity Management (IdM) integration for OpenShift authentication | ⏳ Planned |
